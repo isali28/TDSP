@@ -1,0 +1,20 @@
+Study Overview:
+According to NYC.gov, hundreds of people die annually in New York City due to car crashes, often caused by driver distraction and incompetence. This study explores how the number of crashes varies throughout the year in NYC and investigates whether seasonal conditions exacerbate human error while driving.
+
+Methodology:
+Using seasonal decomposition on a dataset from NYC OpenData, two visualizations were created with Matplotlib:
+
+A line graph showing the distribution of daily crashes in 2023.
+
+A bar graph depicting the monthly breakdown of crashes from 2013 to 2025.
+
+Findings:
+
+Daily crash counts are volatile, but summer and fall months consistently have the highest number of crashes.
+
+October experiences the highest crash frequency, while January has the lowest.
+
+Winter months generally see fewer crashes.
+
+Context & Corroboration:
+According to Court Law, a NYC injury law firm, traffic accidents tend to rise during fall due to factors like increased fog during morning rush hours, wildlife mating behaviors, and decreasing daylight hours, which intensify near Daylight Saving Time changes. The observed October peak aligns with these factors, confirming the dataset’s reliability and lack of anomalies.
